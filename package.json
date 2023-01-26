@@ -1,0 +1,29 @@
+{
+  "name": "iportfolio",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000o\u0000r\u0000t\u0000\r\u0000 \u0000",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PheelzOfficial/tech-porfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PheelzOfficial/tech-porfolio/issues"
+  },
+  "homepage": "https://github.com/PheelzOfficial/tech-porfolio#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "firebase": "^9.16.0",
+    "mailgun-js": "^0.22.0",
+    "nodemailer": "^6.9.0",
+    "nodemailer-mailgun-transport": "^2.1.5",
+    "nodemon": "^2.0.20"
+  }
+}
